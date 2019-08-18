@@ -28,7 +28,7 @@ def gen_markup():
 @bot.message_handler(commands=['start'])
 def canal_command(m):
     bot.reply_to(m,
-                    'Frases de indiretas ideais para usar no status e para quem quer dar um recadinho para pessoas falsas, para o boy e para os ingratos de plantão! As melhores frases para status de indiretas você encontra aqui, inspire-se!\n\n Command /indireta',
+                    '🙊 | Este Bot Foi Criador Por : @Fraviin \n\n✅| Canal Do Bot Official : @Fakesofc\n\n👇Meus Canais oficiais👇',
                     reply_markup=gen_markup())
                     
                     
