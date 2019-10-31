@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from random import randint, choice
 
-bot = telebot.TeleBot("955340196:AAEhB9M6WqWS6nZJ95V2g29xrZEAjEo-JRw")
+bot = telebot.TeleBot("804757647:AAGPkawhQivWqBZfiRQnpP0QJF0l5whMfjw")
 
 @bot.message_handler(commands=["indireta"])
 def frase_command(m):
