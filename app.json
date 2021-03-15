@@ -1,0 +1,17 @@
+{
+  "name": "Dexty Post Channel ",
+  "description": "Bot nao OpenSouce",
+  "keywords": ["post", "canal", "telegram"],
+  "repository": "https://t.me/TioDexty",
+  "stack": "container",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Um token de bot de @BotFather",
+      "required": true
+    },
+    "CANAL": {
+      "description": "Seu Canal do Telegram",
+      "required": true
+    }
+  }
+}
